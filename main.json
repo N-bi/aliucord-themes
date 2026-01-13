@@ -1,1 +1,35 @@
-
+{
+    "manifest": {
+        "author": "twixxty",
+        "version": "1.0.0",
+        "name": "nycto",
+        "updater": ""
+    },
+    "background": {
+        "url": "",
+        "blur_radius": 10,
+        "overlay_alpha": 10
+    },
+    "fonts": {
+        "ginto_regular": ""
+    },
+    "simple_colors": {
+        "statusbar": 1577753,
+        "background_secondary": -15461611,
+        "background": -14606558
+        "mention_highlight": 1267492607,
+        "accent": -6303295,
+        "active_channel": -11910061,
+        "input_background": -13224905
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_red": -8885618,
+        "primary_dark_200": -1646108,
+        "primary_dark_360": -3357739,
+        "white_800": -14674380
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -8951154
+    },
+    "raws": {}
+}
